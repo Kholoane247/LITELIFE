@@ -1,0 +1,32 @@
+{
+ "name": "LITE-LIFE",
+ "short_name": "LITE-LIFE",
+ "description": "Avatar 3D, treino, nutrição, sono e meditação.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#040b18",
+ "theme_color": "#040b18",
+ "lang": "pt",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
